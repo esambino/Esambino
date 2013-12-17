@@ -1,6 +1,9 @@
 ﻿document.write('<script src="/js/vendor/jquery.min.js"></script>');
 document.write('<script src="/js/vendor/modernizr.js"></script>');
 
+//Particle Slider
+document.write('<script src="/js/vendor/particleslider.js"></script>');
+
 //3D
 document.write('<script src="/js/vendor/three.min.js"></script>');
 document.write('<script src="/js/vendor/PointerLockControls.js"></script>');
