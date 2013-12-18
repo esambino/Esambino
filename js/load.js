@@ -24,3 +24,4 @@ document.write('<script src="/js/vendor/jquery.lazyload.min.js"></script>');
 //Prefix
 document.write('<script src="/js/vendor/prefixfree.min.js"></script>');
 document.write('<script src="/js/main.js" type="text/javascript"></script>');
+document.write('<script src="/js/main_particle.js" type="text/javascript"></script>');
