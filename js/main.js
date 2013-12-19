@@ -16,8 +16,6 @@ var renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
-/**/
-
 /* Create Lights: PointLight / SpotLight etc.*/
 var spotLight = new THREE.SpotLight(0xffffff);
 spotLight.position.set(100,100,100);
